@@ -365,7 +365,7 @@ export class Crud implements OnInit {
                 this.messageService.add({
                     severity: 'success',
                     summary: 'Successful',
-                    detail: 'Product Updated',
+                    detail: 'Usuario Actualizado',
                     life: 3000
                 });
             } else {
